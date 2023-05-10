@@ -1,2 +1,1 @@
 # SEE-practicals
-# SEE-exam
